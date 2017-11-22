@@ -35,6 +35,6 @@ function removeLastKitten(){
 }
 
 function removeFirstKitten(){
-  return ittens.slice(1)
+  return kittens.slice(1)
  
 }
